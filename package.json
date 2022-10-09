@@ -1,0 +1,8 @@
+{
+  "name": "floles-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tatangdev/floles-dashboard",
+  "author": "@tatangdev",
+  "license": "MIT"
+}
